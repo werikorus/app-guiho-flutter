@@ -13,3 +13,5 @@
    - Rômulo (Documentação e Jogo)
    - Werik Santos (Desenvolvimento Geral).
  
+ O projeto também contou com a colaboração de um colega de trabalho, Jorge André, programador flutter profissional, que nos
+ ajudou muito principalmente na escolha da linguagem.
