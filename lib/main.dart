@@ -126,9 +126,9 @@ class _MyHomePageState extends State<MyHomePage> {
                 minWidth: 65.0,
                 initialLabelIndex: 0,
                 activeBgColor: Colors.red,
-                activeTextColor: Colors.white,
+                // activeTextColor: Colors.white,
                 inactiveBgColor: Colors.white,
-                inactiveTextColor: Colors.grey[900],
+                // inactiveTextColor: Colors.grey[900],
                 labels: ['Krahô', 'Português'],
                 onToggle: (index) {
                   setState(() {
